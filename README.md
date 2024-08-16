@@ -10,7 +10,7 @@
 
 **[ECCV 2024 CV2 Workshop](https://sites.google.com/nvidia.com/cv2/)**
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-Level%20Up%20Your%20Tutorials-red' alt='Paper PDF'></a>
+<a href=""><img src='https://img.shields.io/badge/ArXiv-Level%20Up%20Your%20Tutorials-red?logo=arxiv' alt='Paper PDF'></a>
 <a href='https://huggingface.co/datasets/DarthReca/but-they-are-cats-tutorial'><img src='https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?logo=huggingface'></a>
 </div>
 

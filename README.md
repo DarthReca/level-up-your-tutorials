@@ -10,7 +10,7 @@
 
 **[ECCV 2024 CV2 Workshop](https://sites.google.com/nvidia.com/cv2/)**
 
-<a href=""><img src='https://img.shields.io/badge/ArXiv-Level%20Up%20Your%20Tutorials-red?logo=arxiv' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2408.08396"><img src='https://img.shields.io/badge/ArXiv-Level%20Up%20Your%20Tutorials-red?logo=arxiv' alt='Paper PDF'></a>
 <a href='https://huggingface.co/datasets/DarthReca/but-they-are-cats-tutorial'><img src='https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?logo=huggingface'></a>
 </div>
 
@@ -39,5 +39,13 @@ This project is licensed under the **Apache 2.0 license**. See [LICENSE](LICENSE
 If you find this project useful, please consider citing:
 
 ```bibtex
-
+@misc{cambrin2024leveltutorialsvlmsgame,
+      title={Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment}, 
+      author={Daniele Rege Cambrin and Gabriele Scaffidi Militone and Luca Colomba and Giovanni Malnati and Daniele Apiletti and Paolo Garza},
+      year={2024},
+      eprint={2408.08396},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.08396}, 
+}
 ```
